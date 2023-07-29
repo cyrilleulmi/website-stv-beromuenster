@@ -3,6 +3,7 @@
 # "docker-compose up" eintippen im Terminal
 # chrome öffnen, localhost für normale Seite localhost/wp-admin
 # Username: user passwort: bitnami
+# Test 123
 
 version: '2'
 services:
